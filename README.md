@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your project:
-
----
-
 # **Customer Segmentation using Kafka, Spark, and MySQL**
 
 This project demonstrates the use of Apache Kafka, Apache Spark Structured Streaming, and MySQL to process and analyze customer purchase frequency data from the *Online Retail* dataset. The primary goal is to categorize customers as **Low Frequency** or **High Frequency** based on their purchasing patterns.
