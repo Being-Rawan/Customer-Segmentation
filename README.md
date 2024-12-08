@@ -126,15 +126,5 @@ customer-segmentation/
 
 ---
 
-## **Contributors**
-- **Rawan Hesham**  
-- Open for contributions! Fork the repository and create a pull request.
-
----
-
 ## **License**
 This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like to customize any section!
